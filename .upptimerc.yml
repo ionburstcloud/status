@@ -1,31 +1,42 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
+owner: ionburstcloud # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
+assignees: # Users to assign downtime issues (optional)
+  - jishf
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Ionburst Cloud - eu-west-1
+    url: https://api.eu-west-1.ionburst.cloud/web/check
+    expectedStatusCodes:
+      - 200
+  - name: Ionburst Cloud - eu-west-2
+    url: https://api.eu-west-2.ionburst.cloud/web/check
+    expectedStatusCodes:
+      - 200
+  - name: Ionburst Cloud Portal
+    url: https://portal.ionburst.cloud
+    expectedStatusCodes:
+      - 200
+      - 302
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.ionburst.cloud
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Ionburst Cloud Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Ionburst Cloud
+      href: https://ionburst.cloud
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+commitMessages:
+  commitAuthorName: "Ionbot"
+  commitAuthorEmail: "ionbot@ionburst.cloud"
+user-agent: ionbot-ibc
