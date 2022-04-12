@@ -23,8 +23,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.ionburst.cloud
   # baseUrl: /your-repo-name
-  logoUrl: https://status.ionburst.cloud/icon.svg
-  themeUrl: https://status.ionburst.cloud/ibc.css
+  logoUrl: https://assets.ionburst.cloud/status/icon.svg
+  themeUrl: https://assets.ionburst.cloud/status/ibc.css
   name: Ionburst Cloud Status
   introTitle: "The low-effort, high-security platform for developers storing data in the cloud."
   introMessage: We continuously monitor Ionburst Cloud and its underlying services. If there are any performance issues or service interruptions, an update will be posted here.
@@ -33,8 +33,8 @@ status-website:
       href: /
     - title: Ionburst Cloud
       href: https://ionburst.cloud
-  favicon: https://status.ionburst.cloud/favicon.png
-  faviconSvg: https://status.ionburst.cloud/icon.svg
+  favicon: https://assets.ionburst.cloud/status/favicon.png
+  faviconSvg: https://assets.ionburst.cloud/status/icon.svg
   customHeadHtml: '<script defer data-domain="status.ionburst.cloud" src="https://plausible.io/js/plausible.js"></script>'
 
 # Upptime also supports notifications, assigning issues, and more
