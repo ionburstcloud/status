@@ -35,10 +35,7 @@ status-website:
       href: https://ionburst.cloud
   favicon: https://status.ionburst.cloud/favicon.png
   faviconSvg: https://status.ionburst.cloud/icon.svg
-  scripts:
-    - src: https://plausible.io/js/plausible.js
-      defer: true
-      data-domain: status.ionburst.cloud
+  customHeadHtml: '<script defer data-domain="status.ionburst.cloud" src="https://plausible.io/js/plausible.js"></script>'
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
