@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/api.eu-west-1.ionburst.cloud",
     "slug": "ionburst-cloud-eu-west-1",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "99.96%",
-    "time": 519,
-    "timeDay": 488,
-    "timeWeek": 425,
-    "timeMonth": 477,
-    "timeYear": 519,
+    "uptimeYear": "99.97%",
+    "time": 518,
+    "timeDay": 352,
+    "timeWeek": 434,
+    "timeMonth": 468,
+    "timeYear": 518,
     "dailyMinutesDown": {
       "2022-07-24": 63
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 505,
-    "timeDay": 562,
-    "timeWeek": 512,
-    "timeMonth": 517,
-    "timeYear": 505,
+    "time": 504,
+    "timeDay": 386,
+    "timeWeek": 519,
+    "timeMonth": 511,
+    "timeYear": 504,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 698,
-    "timeDay": 704,
+    "time": 697,
+    "timeDay": 486,
     "timeWeek": 634,
-    "timeMonth": 704,
-    "timeYear": 698,
+    "timeMonth": 693,
+    "timeYear": 697,
     "dailyMinutesDown": {}
   }
 ]
