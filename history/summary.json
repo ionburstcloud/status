@@ -2,7 +2,7 @@
   {
     "name": "Ionburst Cloud - eu-west-1",
     "url": "https://api.eu-west-1.ionburst.cloud/web/check",
-    "icon": "https://favicons.githubusercontent.com/api.eu-west-1.ionburst.cloud",
+    "icon": "https://icons.duckduckgo.com/ip3/api.eu-west-1.ionburst.cloud.ico",
     "slug": "ionburst-cloud-eu-west-1",
     "status": "up",
     "uptime": "99.97%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 503,
-    "timeDay": 601,
+    "timeDay": 467,
     "timeWeek": 456,
-    "timeMonth": 456,
+    "timeMonth": 457,
     "timeYear": 503,
     "dailyMinutesDown": {
       "2022-07-24": 63
@@ -22,7 +22,7 @@
   {
     "name": "Ionburst Cloud - eu-west-2",
     "url": "https://api.eu-west-2.ionburst.cloud/web/check",
-    "icon": "https://favicons.githubusercontent.com/api.eu-west-2.ionburst.cloud",
+    "icon": "https://icons.duckduckgo.com/ip3/api.eu-west-2.ionburst.cloud.ico",
     "slug": "ionburst-cloud-eu-west-2",
     "status": "up",
     "uptime": "100.00%",
@@ -30,17 +30,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 511,
-    "timeDay": 640,
-    "timeWeek": 536,
-    "timeMonth": 520,
-    "timeYear": 511,
+    "time": 512,
+    "timeDay": 582,
+    "timeWeek": 550,
+    "timeMonth": 526,
+    "timeYear": 512,
     "dailyMinutesDown": {}
   },
   {
     "name": "Ionburst Cloud Portal",
     "url": "https://portal.ionburst.cloud",
-    "icon": "https://favicons.githubusercontent.com/portal.ionburst.cloud",
+    "icon": "https://icons.duckduckgo.com/ip3/portal.ionburst.cloud.ico",
     "slug": "ionburst-cloud-portal",
     "status": "up",
     "uptime": "100.00%",
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 692,
-    "timeDay": 872,
-    "timeWeek": 708,
-    "timeMonth": 674,
+    "timeDay": 696,
+    "timeWeek": 710,
+    "timeMonth": 680,
     "timeYear": 692,
     "dailyMinutesDown": {}
   }
