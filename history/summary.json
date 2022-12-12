@@ -24,19 +24,19 @@
     "url": "https://api.eu-west-2.ionburst.cloud/web/check",
     "icon": "https://icons.duckduckgo.com/ip3/api.eu-west-2.ionburst.cloud.ico",
     "slug": "ionburst-cloud-eu-west-2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 506,
-    "timeDay": 356,
-    "timeWeek": 485,
-    "timeMonth": 506,
+    "timeDay": 358,
+    "timeWeek": 472,
+    "timeMonth": 502,
     "timeYear": 506,
     "dailyMinutesDown": {
-      "2022-12-12": 0
+      "2022-12-12": 3
     }
   },
   {
