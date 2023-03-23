@@ -44,17 +44,19 @@
     "url": "https://portal.ionburst.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/portal.ionburst.cloud.ico",
     "slug": "ionburst-cloud-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 676,
-    "timeDay": 481,
-    "timeWeek": 567,
-    "timeMonth": 627,
-    "timeYear": 676,
-    "dailyMinutesDown": {}
+    "time": 704,
+    "timeDay": 5393,
+    "timeWeek": 1784,
+    "timeMonth": 961,
+    "timeYear": 704,
+    "dailyMinutesDown": {
+      "2023-03-23": 0
+    }
   }
 ]
