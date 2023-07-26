@@ -6,8 +6,8 @@
     "slug": "ionburst-cloud-eu-west-1",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 486,
@@ -16,7 +16,7 @@
     "timeMonth": 467,
     "timeYear": 473,
     "dailyMinutesDown": {
-      "2023-07-26": 2,
+      "2023-07-26": 4,
       "2023-04-05": 14
     }
   },
