@@ -4,9 +4,9 @@
     "url": "https://api.eu-west-1.ionburst.cloud/web/check",
     "icon": "https://icons.duckduckgo.com/ip3/api.eu-west-1.ionburst.cloud.ico",
     "slug": "ionburst-cloud-eu-west-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 463,
     "timeYear": 473,
     "dailyMinutesDown": {
+      "2023-07-26": 0,
       "2023-04-05": 14
     }
   },
