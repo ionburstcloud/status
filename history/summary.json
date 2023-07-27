@@ -4,17 +4,17 @@
     "url": "https://api.eu-west-1.ionburst.cloud/web/check",
     "icon": "https://icons.duckduckgo.com/ip3/api.eu-west-1.ionburst.cloud.ico",
     "slug": "ionburst-cloud-eu-west-1",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "99.70%",
     "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 486,
-    "timeDay": 539,
-    "timeWeek": 532,
-    "timeMonth": 467,
-    "timeYear": 473,
+    "time": 485,
+    "timeDay": 424,
+    "timeWeek": 493,
+    "timeMonth": 463,
+    "timeYear": 472,
     "dailyMinutesDown": {
       "2023-07-26": 4,
       "2023-04-05": 14
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 508,
-    "timeDay": 623,
-    "timeWeek": 523,
+    "time": 507,
+    "timeDay": 377,
+    "timeWeek": 503,
     "timeMonth": 498,
-    "timeYear": 509,
+    "timeYear": 508,
     "dailyMinutesDown": {
       "2022-12-12": 3
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 643,
-    "timeDay": 480,
-    "timeWeek": 468,
+    "time": 642,
+    "timeDay": 343,
+    "timeWeek": 447,
     "timeMonth": 475,
-    "timeYear": 626,
+    "timeYear": 623,
     "dailyMinutesDown": {
       "2023-03-23": 7
     }
